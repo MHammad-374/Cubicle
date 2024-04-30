@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "name": "All Things Cubehead",
+        "products": [
+            {
+                "id": 1,
+                "title": "The Yoo Cube II",
+                "price": 42.99,
+                "reviews": 83,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/listing2.jpg?v=1710596088&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/yoocubeII.jpg?v=1710941276&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/preview_images/hqdefault_855206c2-e79e-41dd-b9da-346ab5ce30aa.jpg?height=100&v=1710631967&width=133",
+                    "https://www.thecubicle.com/cdn/shop/files/cubeheadrobotcubestand.jpg?v=1710941276&width=655"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "THE YOO MINI MAT V2 (BLUE)",
+                "price": 8.99,
+                "reviews": 6,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/The_20Yoo_20Mini_20Mat_20V2_20_Blue.jpg?v=1690311942&width=655"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "CUBEHEAD TURQUOISE SWEATSHIRT",
+                "price": 54.99,
+                "reviews": 1,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/products/blue_201_20copy.jpg?v=1669752256&width=600",
+                    "https://www.thecubicle.com/cdn/shop/products/blue2copy.jpg?v=1669752551&width=655",
+                    "https://www.thecubicle.com/cdn/shop/products/blue3copy.jpg?v=1669752553&width=655"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "CUBEHEAD CUBE COVER",
+                "price": 4.99,
+                "reviews": 13,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/products/cubehead-cube-cover.jpg?v=1685488695&width=655",
+                    "https://www.thecubicle.com/cdn/shop/products/cubehead-cube-cover-1.jpg?v=1685488695&width=655"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "ON SALE NOW",
+        "products": [
+            {
+                "id": 1,
+                "title": "HUAMENG YS3M 3X3 BALL-CORE (MAGNETIC CORE + MAGLEV)",
+                "price": 18.99,
+                "reviews": 76,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/products/moyu-huameng-ys3m-maglev-ball-core.jpg?v=1677090986&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/preview_images/hqdefault_7258703b-5066-42b7-986d-31a444c14e04.jpg?height=100&v=1704982611&width=133"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "MOYU SUPER WEILONG 3X3 LITE (20-CORE MAGNETIC + MAGLEV)",
+                "price": 76.99,
+                "reviews": 1,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/MoYu_20Super_20WeiLong_203x3_20Lite_20_20-Core_20Magnetic_20_20MagLev.jpg?v=1710361795&width=655"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "MOYU SUPER RS3 M V2 MAGNETIC UV 3X3",
+                "price": 23.99,
+                "reviews": 6,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/MoYu-Super-RS3-M-V2-Magnetic-UV-3x3.jpg?v=1687534471&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/01.jpg?height=100&v=1704984826&width=100",
+                    "https://www.thecubicle.com/cdn/shop/files/02.jpg?v=1704984826&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/03.jpg?v=1704984826&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/06_0277a45c-3b96-43f2-8e6e-8a963a72932a.jpg?v=1704984826&width=655"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "MFJS MEILONG CLOVER 3X3",
+                "price": 5.99,
+                "reviews": 17,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/products/UtiretR9FLzpL.jpg?v=1710271162&width=655"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "QIYI 3X3 VOID CUBE",
+                "price": 8.99,
+                "reviews": 6,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/QiYi_203x3_20Void_20Cube.jpg?v=1701889983&width=655"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "GAN GIFT BOX (GAN330 + GAN11 AIR)",
+                "price": 22.99,
+                "reviews": 1,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/products/GAN_20Blue_20Box_20_GAN330_20_20GAN11_20Air.jpg?v=1670508382&width=655"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "DIANSHENG MS3R 3X3 (UV COATED)",
+                "price": 32.99,
+                "reviews": 4,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/DianSheng_20MS3R_203x3_20_UV_20Coated.jpg?v=1696276854&width=600",
+                    "https://www.thecubicle.com/cdn/shop/files/DianShengMS3R3x3UVCoatedbi.jpg?v=1696339076&width=655"
+                ]
+            },
+            {
+                "id": 8,
+                "title": "GAN 356 I CARRY 2 3X3",
+                "price": 31.99,
+                "reviews": 5,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/GAN_20356_20i_20Carry_202.jpg?v=1705091892&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/GAN356icarry2Package.jpg?v=1705093391&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/GAN356icarry2Photo-2.jpg?v=1705093390&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/Catch.jpg?v=1705093391&width=655",
+                    "https://www.thecubicle.com/cdn/shop/files/GAN356icarry2Photo-1.png?v=1705093392&width=655"
+                ]
+            },
+            {
+                "id": 9,
+                "title": "PHYSICS ELECTROMAGNETICS CUBE 3X3",
+                "price": 13.99,
+                "reviews": 5,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/files/Physics_20Electromagnetics_20Cube_203x3_fc7b67f2-f8de-45da-bdbe-7790ea5471b2.jpg?v=1696537376&width=655"
+                ]
+            },
+            {
+                "id": 10,
+                "title": "PHYSICS ELECTROMAGNETICS CUBE 3X3",
+                "price": 8.99,
+                "reviews": 11,
+                "images": [
+                    "https://www.thecubicle.com/cdn/shop/products/dollarcubeb1.jpg?v=1581457858&width=655"
+                ]
+            }
+        ]
+    }
+]

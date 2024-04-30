@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ------------------------ Navbar ------------------------------------- */
+
+header {
+  background-color: #182e49;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+nav{
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+}
+div.nav-bar {
+  /* background-color: #00dd63; */
+  width: 1280px;
+  width: fit-content;
+  display: grid;
+  grid-template-columns: 1fr 1.5fr 0.1fr 0.3fr;
+}
+
+h3.discount_line {
+  /* background-color: #33e7de; */
+  padding: 10px 0px;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  text-align: right;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  color: #d3d3d3;
+}
+
+span.yellow {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: #ffa500;
+}
+
+div.register_box {
+  /* background-color: #8f3aff; */
+  grid-column-start: 3;
+  grid-column-end: 5;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  gap: 7px;
+  padding: 15px 0px 0px 0px;
+}
+
+span.log {
+  font-weight: bold;
+  cursor: pointer;
+  /* background-color: #fff; */
+  height: fit-content;
+}
+
+div.logo {
+  padding: 0px 30px;
+  margin: -10px 0px 0px 0px;
+  /* background-color: #fff; */
+}
+
+img.logoImg {
+  height: 60px;
+}
+
+div.search_bar {
+  background-color: #15273d;
+  height: 44px;
+  width: 580px;
+  display: flex;
+  align-items: center;
+  /* padding: 0px 5px; */
+  gap: 5px;
+  margin: 0px 0px 0px 98px;
+
+}
+
+input.search {
+  height: 100%;
+  width: 94%;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 16px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  padding: 0px 10px;
+}
+
+div.search_bar:hover,
+div.cart:hover {
+  background-color: #101f32;
+  cursor: pointer;
+}
+::placeholder{
+  color: rgb(207, 207, 207);
+}
+
+div.bell_icon {
+  /* background-color: pink; */
+  height: 45px;
+  margin: 0px 0px 0px 0px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.cart {
+  background-color: #15273d;
+  height: 45px;
+  width: 100px;
+  margin: 0px 0px 0px 4px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}

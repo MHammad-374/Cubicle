@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Sale"
+    },
+    {
+        "id": 2,
+        "name": "New Arrivals"
+    },
+    {
+        "id": 3,
+        "name": "Premium Pro Builds"
+    },
+    {
+        "id": 4,
+        "name": "Puzzles"
+    },
+    {
+        "id": 5,
+        "name": "Accessories"
+    },
+    {
+        "id": 6,
+        "name": "Lube"
+    },
+    {
+        "id": 7,
+        "name": "Apparel"
+    },
+    {
+        "id": 8,
+        "name": "Novelties & Extras"
+    }
+]

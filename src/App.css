@@ -1,0 +1,264 @@
+/* --------------------------- Categories --------------------------- */
+div.categories {
+    /* background-color: #b40000; */
+    width: 1250px;
+    margin: 5px auto 0px auto;
+    display: flex;
+    padding: 0px 10px;
+}
+
+.cat {
+    font-size: 16px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    padding: 14px 23px;
+    /* background-color: pink; */
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.cat:hover {
+    background-color: rgb(16, 120, 255);
+}
+
+/* ---------------------------- Drop Down ---------------------------------- */
+.dropdown {
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 10px 10px -10px gray;
+}
+
+.dropdown_heading {
+    background-color: #263238;
+    padding: 7px 0px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline 1px rgb(128, 128, 128);
+    text-underline-offset: 5px;
+}
+
+
+/* ------------------------------------ Slider ------------------------------------*/
+div.slider_content {
+    /* background-color: rgb(0, 0, 0); */
+    padding: 30px 0px;
+}
+
+div.slider {
+    margin: auto;
+    width: 1280px;
+}
+
+.btn-lr {
+    width: 100px;
+    background-color: #00000082;
+}
+
+/* ------------------------------------- Main -------------------------------------- */
+
+section.main_sec {
+    /* background-color: blueviolet; */
+    width: 1280px;
+    margin: auto;
+    font-family: "Montserrat", sans-serif;
+    padding: 30px 0px;
+}
+
+h1.base_heading {
+    /* background: #c80202; */
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+div.cards {
+    padding: 20px 0px 0px 0px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+button.buy_btn {
+    background-color: #528ec1;
+    border-radius: 0px;
+    padding: 5px 15px;
+    color: white;
+}
+
+button.buy_btn:hover {
+    color: white;
+    background-color: #487dab;
+
+}
+
+div.card {
+    /* height: 350px; */
+    width: 247px;
+    padding: 5px;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+.card-title {
+    height: 50px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-price {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* ------------------------------------ Gallery ---------------------------------- */
+section.gallery {
+    /* background-color: blueviolet; */
+    /* padding: 0px 10px; */
+    width: 1280px;
+    margin: auto;
+}
+
+h1.heading {
+    font-family: "Montserrat", serif;
+    font-size: 23px;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* background-color: #b81f1f; */
+    text-align: center;
+    margin: 30px 0px;
+}
+
+div.pics {
+    background-color: rgb(0, 255, 195);
+    /* height: 200px; */
+    display: flex;
+    width: 1230px;
+    flex-wrap: wrap;
+    margin: 30px auto;
+}
+
+div.g_pic {
+    height: 200px;
+    width: 205px;
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+}
+
+div.g_pic:hover {
+    box-shadow: inset 0px 0px 180px 5px black;
+
+}
+
+/* ------------------------------------ Location ------------------------------------- */
+
+section.location {
+    /* height: 200px; */
+    width: 1280px;
+    /* background-color: blue; */
+    margin: 40px auto 50px auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+div.address {
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+p.text {
+    font-family: "Montserrat", serif;
+    color: rgb(38, 38, 38);
+    font-weight: 500;
+    font-size: 15px;
+    /* background-color: #7a4545; */
+    text-align: center;
+}
+
+button.contact_btn {
+    background-color: #528ec1;
+    border-radius: 0px;
+    padding: 5px 15px;
+    margin: 30px 0px;
+    color: white;
+    text-transform: uppercase;
+    font-family: "Montserrat", serif;
+}
+
+button.contact_btn:hover {
+    color: white;
+    background-color: #487dab;
+}
+
+/* --------------------------------------- Footer --------------------------------- */
+
+footer {
+    background-color: #f8f8f8;
+    /* height: 500px; */
+}
+
+section.foot {
+    width: 1280px;
+    height: 100%;
+    margin: auto;
+    /* background-color: tan; */
+    padding: 50px 0px 0px 0px;
+}
+
+div.main_foot {
+    /* height: 150px; */
+    /* background-color: rgb(225, 198, 198); */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 2fr;
+    gap: 40px;
+}
+
+
+
+h2.f_heading {
+    /* background-color: #f5b8b8; */
+    text-align: left;
+    font-family: "Montserrat", serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+ul.f_text {
+    list-style: none;
+    padding: 0px;
+    margin: 20px 0px;
+
+}
+
+li.l_text {
+    font-size: 14px;
+    color: #636363;
+
+}
+
+p.o_text {
+    font-size: 14px;
+    color: #636363;
+    margin: 20px 0px;
+}
+
+div.icons {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    align-items: center;
+}
+
+div.end {
+    /* background-color: #580606; */
+    font-family: "Montserrat", serif;
+}
